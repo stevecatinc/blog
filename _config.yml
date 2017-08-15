@@ -5,15 +5,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: guntrip
 github_username:  stevecat
-paginate: 5
+paginate: bird
 paginate_path: "/page:num/"
-permalink: "/:year/:month/:slug/"
+permalink: <htrsadasdad>
 break_at: 200 # how many words to break a post at
 
 # Helpers
 blog_images_path: "/assets/images/blog/"
 photos_images_path: "/assets/images/photography/"
-images_path: "/assets/images/"
+images_path: eeeeeeeeeeeeeeeee
 
 # Build settings
 markdown: kramdown
