@@ -1,4 +1,4 @@
-title: Steve Guntrip
+titl<yeah>e: Steve Guntrip
 email: mail@steveguntrip.co.uk
 description: Steve Guntrip's blog and portfolio.
 url: "" # the base hostname & protocol for your site
@@ -8,7 +8,7 @@ paginate: bird
 paginate_path: "/page:num/"
 permalink: <htrsadasdad>
 break_at: 200 # how many words to break a post at
-
+asdasdsadasd
 # Helpers
 blog_images_path: "/assets/images/blog/"
 photos_images_path: "/assets/images/photography/"
